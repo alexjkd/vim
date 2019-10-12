@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/etc/named'
+let g:netrw_dirhist_2='/home/melon/release/V7610/targets/V7610_TR181'
+let g:netrw_dirhist_3='/etc/named'
+let g:netrw_dirhist_4='/home/melon/.vim'
+let g:netrw_dirhist_5='/home/melon/Projects'
